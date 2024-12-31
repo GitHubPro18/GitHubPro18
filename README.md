@@ -14,7 +14,7 @@ I am a passionate Data Science student dedicated to continuous learning and anal
 
 ### 🏆 Let's Connect
 - **LinkedIn**: [Ritika Gupta](https://www.linkedin.com/in/ritika-gupta-62b42a265)
-- **Gmail**: [email](ritikagupta.3k@gmail.com)
+- **Gmail**: [ritikagupta.3k@gmail.com](ritikagupta.3k@gmail.com)
 - **Portfolio**: Coming Soon!
 
 
