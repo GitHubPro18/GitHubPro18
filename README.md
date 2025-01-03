@@ -3,7 +3,7 @@
 I am a passionate Data Science student dedicated to continuous learning and analytical excellence. With a strong foundation in data analysis and a keen interest in exploring cutting-edge technologies, I excel in deriving actionable insights from complex datasets.
 
 ### 🌍 About Me
-- 🔧 **Skills**: Proficient in Python, R, SQL, and data visualization tools.
+- 🔧 **Skills**: Proficient in Python, SQL, Data Science, Machine Learning and Deep Learning concepts.
 - 📈 **Projects**: Experienced in working on diverse data-driven projects ranging from stock price predictions using LSTMs, CNNs to GAN-based image generation.
 - ✨ **Mission**: Seeking opportunities to apply and expand my technical and analytical skills through innovative and impactful projects.
 
